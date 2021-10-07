@@ -54,5 +54,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [Sudharsan Srikanthan](https://{github.com/sudharsansrikanthan})
-- Twitter [Sudharsan Srikanthan](https://{twitter.com/SudharsanSrika1})
+- GitHub [Sudharsan Srikanthan](https://github.com/sudharsansrikanthan)
+- Twitter [Sudharsan Srikanthan](https://twitter.com/SudharsanSrika1)
