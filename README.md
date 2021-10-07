@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Sudharsan Srikanthan}</h1>
+<h1 align="center">Sudharsan Srikanthan</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -54,5 +54,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/sudharsansrikanthan})
-- Twitter [@your-twitter](https://{twitter.com/SudharsanSrika1})
+- GitHub [Sudharsan Srikanthan](https://{github.com/sudharsansrikanthan})
+- Twitter [Sudharsan Srikanthan](https://{twitter.com/SudharsanSrika1})
