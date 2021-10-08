@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://sudharsansrikanthan.github.io/404-Not-Found/src/html/index.html">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://sudharsansrikanthan.github.io/404-Not-Found/src/html/index.html">
       Solution
     </a>
     <span> | </span>
@@ -35,9 +35,9 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/sudharsansrikanthan/404-Not-Found/blob/main/screenshot.jpg?raw=true))
 
-Screenshot of the challenge will be displayed here.
+Screenshot of the result for the challenge is displayed here.
 
 ## Features
 
