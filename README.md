@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/sudharsansrikanthan/404-Not-Found/blob/main/screenshot.jpg?raw=true))
+![screenshot](https://github.com/sudharsansrikanthan/404-Not-Found/blob/main/screenshot.png)
 
 Screenshot of the result for the challenge is displayed here.
 
